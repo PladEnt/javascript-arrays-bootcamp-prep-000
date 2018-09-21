@@ -1,4 +1,11 @@
-var addElementToBeginningOfArray = [
-  "1"
+var chocolateBars=[
+  'snickers',
+  'hundred grand',
+  'kitkat, skittles'
 ];
-cities.unshift("2");
+
+var addElementToBeginningOfArray=[
+  '2',
+  '3'
+];
+addElementToBeginningOfArray.unshift('1');
